@@ -96,6 +96,7 @@ AI_Analyst_practicale
 If you like this work:
 - ⭐ Star the repository  
 ---
-##
+## Aurthor
+- Gaurav RAI
 
 This repository represents my practical learning journey in Data Analysis and Machine Learning.
