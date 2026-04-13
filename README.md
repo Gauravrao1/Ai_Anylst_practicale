@@ -97,6 +97,6 @@ If you like this work:
 - ⭐ Star the repository  
 ---
 ## Aurthor
-- Gaurav RAI
+- Gaurav Rao
 
 This repository represents my practical learning journey in Data Analysis and Machine Learning.
