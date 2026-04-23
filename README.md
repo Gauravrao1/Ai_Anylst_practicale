@@ -11,7 +11,7 @@ This repository contains my AI Analyst practical work, where I explored real-wor
 It includes step-by-step implementations of:
 - Data preprocessing  
 - Data cleaning  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)    
 - Visualization  
 - Regression & prediction models  
 
