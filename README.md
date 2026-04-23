@@ -2,7 +2,7 @@
 
 > 🚀 A collection of practical notebooks covering data cleaning, visualization, EDA, and predictive modeling
 
----
+---   
 
 ## 📖 About This Repository
 
