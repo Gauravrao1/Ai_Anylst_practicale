@@ -15,7 +15,7 @@ It includes step-by-step implementations of:
 - Visualization  
 - Regression & prediction models  
 
----
+--- 
 
 ## 📂 Project Structure
 
